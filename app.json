@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "rrrg",
+    "slug": "rrrg",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/ian.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/ian.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.hanekanyan.rrrg"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "122b570f-79d9-4445-9c5e-6ad7bce6fb98"
+      }
+    }
+  }
+}
