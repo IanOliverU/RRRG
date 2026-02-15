@@ -41,3 +41,5 @@ yarn-error.*
 /android
 .idea/
 node_modules/
+.idea/
+node_modules/
